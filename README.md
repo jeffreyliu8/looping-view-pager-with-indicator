@@ -6,5 +6,4 @@ It is actually just Integer.MAX_VALUE pages, but normal users will not possibly 
 This shows how view pager with looping can be done, with custom page indicator.
 This has been tested with 1, 2 and even more tabs.
 
-Phone Preview:
 ![Output sample](https://github.com/jeffreyliu8/looping-view-pager-with-indicator/blob/master/gifsample.gif)
